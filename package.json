@@ -1,0 +1,23 @@
+{
+  "name": "rss-virtual-keyboard",
+  "version": "1.0.0",
+  "description": "Virtual keyboard, made on vanilla JS on the RS School 2022Q1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeryKirdey/RSS-Virtual-Keyboard.git"
+  },
+  "author": "Valery Kirdey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeryKirdey/RSS-Virtual-Keyboard/issues"
+  },
+  "homepage": "https://github.com/ValeryKirdey/RSS-Virtual-Keyboard#readme"
+}
